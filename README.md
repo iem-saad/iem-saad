@@ -9,7 +9,7 @@
 
 <br><br>
 <br><br>
-<p align="center"> <b> Let's Connect<b/> 🔥</p>
+### Let's Connect 🔥
 <a href="https://github.com/iem-saad/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.linkedin.com/in/iemsaad/">
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
 <br><br>
 <br><br>
-## Tools & Technologies 🛠
+### Tools & Technologies 🛠
 <div align="center">
 <!-- <p align="center"></p> -->
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
