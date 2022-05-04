@@ -7,7 +7,28 @@
 - 📫 How to reach me: iem.saad@hotmail.com
 - ⚡ Fun fact: It takes time for light to reach us, and as a result, everything we see is in the past. When you see the sun out your window, the light is already eight minutes and 20 seconds old. The light from Earth’s nearest star Proxima Centauri is four years old.
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<p align="center"> <b> Let's Connect<b/> 🔥</p>
+<a href="https://github.com/iem-saad/">
+<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
+<a href="https://www.linkedin.com/in/iemsaad/">
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
+<a href="https://x.facebook.com/iemsaaad">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
+<a href="https://twitter.com/iem_saad">
+<img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>  
+<a href="https://www.instagram.com/iem.saad/">
+<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
+<a href="mailto:iem.saad@hotmail.com">
+<img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 ## Tools & Technologies 🛠
 <div align="center">
 <!-- <p align="center"></p> -->
