@@ -26,7 +26,9 @@
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
 <br><br>
 <br><br>
+
 ### Tools & Technologies 🛠
+
 <div align="center">
 <!-- <p align="center"></p> -->
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
