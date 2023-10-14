@@ -1,13 +1,20 @@
 <p align="center"><a href="https://iem-saad.github.io/"><img width="80%" alt="Hello, I'm Saad. I do open source!" src="./assets/iem-saad-gh-readme-header.png" /></a></p>
 
-<br />
+<img align="right" alt="PC GIF" src="./assets/iem-saad-gh-computer.gif" width="190" />
 
-
-### Hello World! 👋
+<p>
+  <em>
+    I am a Computer Science graduate from <a href="https://www.nu.edu.pk/"> <b>FAST NUCES</b></a>.  
+    A Full Stack <b>Ruby on Rails Developer</b>, Research Assistant and a <b>Data Enthusiast,</b> who is <b>motivated</b>
+    by fear of being average and wants a <b>platform</b> to 
+    <b>grow 🚀 </b> and 
+    <b>excel. ⭐</b>
+  </em>  
+</p>
 
 - 🔭 I’m currently working on Ruby On Rails
-- 🌱 I’m currently learning Web Pentesting and Android Development
-- 👯 I’m looking to collaborate on Open Source Web Projects
+- 🌱 I’m currently learning Data Engineering
+- 👯 I’m looking for masters and to collaborate on Open Source Projects
 - 💬 Ask me about Ruby On Rails xD
 - 📫 How to reach me: iem.saad@hotmail.com
 - ⚡ Fun fact: It takes time for light to reach us, and as a result, everything we see is in the past. When you see the sun out your window, the light is already eight minutes and 20 seconds old. The light from Earth’s nearest star Proxima Centauri is four years old.
