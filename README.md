@@ -11,8 +11,9 @@
     <b>excel. ⭐</b>
   </em>  
 </p>
-- 🌱 I’m currently learning Data Engineering
-- 👯 I’m looking for masters and to collaborate on Open Source Projects
+
+- 🌱 I’m currently learning Data Engineering.
+- 👯 I’m looking for masters and to collaborate on Open Source Projects.
 - 💬 Ask me about Ruby On Rails xD
 - 📫 How to reach me: iem.saad@hotmail.com
 - ⚡ Fun fact: It takes time for light to reach us, and as a result, everything we see is in the past. When you see the sun out your window, the light is already eight minutes and 20 seconds old. The light from Earth’s nearest star Proxima Centauri is four years old.
