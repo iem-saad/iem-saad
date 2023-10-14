@@ -11,8 +11,6 @@
     <b>excel. ⭐</b>
   </em>  
 </p>
-
-- 🔭 I’m currently working on Ruby On Rails
 - 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking for masters and to collaborate on Open Source Projects
 - 💬 Ask me about Ruby On Rails xD
