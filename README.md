@@ -31,9 +31,7 @@
 <a href="https://www.instagram.com/iem.saad/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
 <a href="mailto:iem.saad@hotmail.com">
-<img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
-<a href="https://wa.me/923440317788?text=%23Github">
-<img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <br><br>
 
 ### Tools & Technologies 🛠
