@@ -37,7 +37,6 @@
 
 ### Tools & Technologies 🛠
 
-
 <div>
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -68,6 +67,18 @@
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 </div>
 <br><br>
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors count
+
+![VisitorCount](https://profile-counter.glitch.me/{iem-saad}/count.svg)
+
+### 📊 Profile Stats
 <div align="center">
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iem-saad&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">I'm all about connecting with new folks! Don't hesitate to say Hi 👋 – I'm excited to get to know you better!</p>
+  
