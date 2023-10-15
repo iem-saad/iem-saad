@@ -16,7 +16,7 @@
 - 👯 I’m looking for masters and to collaborate on Open Source Projects.
 - 💬 Ask me about Ruby On Rails xD
 - 📫 How to reach me: iem.saad@hotmail.com
-- ⚡ Fun fact: It takes time for light to reach us, and as a result, everything we see is in the past. When you see the sun out your window, the light is already eight minutes and 20 seconds old. The light from Earth’s nearest star Proxima Centauri is four years old.
+- ⚡ Fun fact: Did you Know? When you see the sun, you're looking at 8-minutes-20-seconds-old light, as It takes time for light to reach us. The light from Earth’s nearest star Proxima Centauri is four years old.
 
 <br>
 
