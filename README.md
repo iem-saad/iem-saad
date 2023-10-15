@@ -1,6 +1,6 @@
 <p align="center"><a href="https://iem-saad.github.io/"><img width="80%" alt="Hello, I'm Saad. I do open source!" src="./assets/iem-saad-gh-readme-header.png" /></a></p>
 
-<img align="right" alt="PC GIF" src="./assets/iem-saad-gh-computer.gif" width="190" />
+<img align="right" alt="PC GIF" src="./assets/iem-saad-gh-computer.gif" width="350" />
 
 <p>
   <em>
@@ -18,7 +18,8 @@
 - 📫 How to reach me: iem.saad@hotmail.com
 - ⚡ Fun fact: It takes time for light to reach us, and as a result, everything we see is in the past. When you see the sun out your window, the light is already eight minutes and 20 seconds old. The light from Earth’s nearest star Proxima Centauri is four years old.
 
-<br><br>
+<br>
+
 ### Let's Connect 🔥
 <a href="https://github.com/iem-saad/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
