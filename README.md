@@ -12,9 +12,9 @@
   </em>  
 </p>
 
-- 🌱 I’m currently learning Data Engineering.
-- 👯 I’m looking for masters and to collaborate on Open Source Projects.
-- 💬 Ask me about Ruby On Rails xD
+- 🌱 I’m currently doing Master's programme on the Engineering of Data-intensive Intelligent Software Systems (EMJMD).
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 💬 Ask me about Machine Learning & Ruby On Rails xD
 - 📫 How to reach me: iem.saad@hotmail.com
 - ⚡ Fun fact: Did you Know? When you see the sun, you're looking at 8-minutes-20-seconds-old light, as It takes time for light to reach us. The light from Earth’s nearest star Proxima Centauri is four years old.
 
