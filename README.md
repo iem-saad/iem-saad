@@ -1,84 +1,68 @@
-<p align="center"><a href="https://iem-saad.github.io/"><img width="80%" alt="Hello, I'm Saad. I do open source!" src="./assets/iem-saad-gh-readme-header.png" /></a></p>
-
-<img align="right" alt="PC GIF" src="./assets/iem-saad-gh-computer.gif" width="350" />
-
-<p>
-  <em>
-    I am a Computer Science graduate from <a href="https://www.nu.edu.pk/"> <b>FAST NUCES</b></a>.  
-    A Full Stack <b>Ruby on Rails Developer</b>, Research Assistant and a <b>Data Enthusiast,</b> who is <b>motivated</b>
-    by fear of being average and wants a <b>platform</b> to 
-    <b>grow 🚀 </b> and 
-    <b>excel. ⭐</b>
-  </em>  
+<p align="center">
+  <a href="https://iem-saad.github.io/">
+    <img width="80%" alt="Saad Abdullah — GitHub profile header" src="./assets/iem-saad-gh-readme-header.png" />
+  </a>
 </p>
+<p align="center"><strong>Machine Learning Engineer @ Supersight Oy</strong> · Helsinki, Finland</p>
+<p align="center">Computer Vision · Data Engineering · Applied AI · Software Engineering</p>
 
-- 🌱 I’m currently doing Master's programme on the Engineering of Data-intensive Intelligent Software Systems (EMJMD).
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 💬 Ask me about Machine Learning & Ruby On Rails xD
-- 📫 How to reach me: iem.saad@hotmail.com
-- ⚡ Fun fact: Did you Know? When you see the sun, you're looking at 8-minutes-20-seconds-old light, as It takes time for light to reach us. The light from Earth’s nearest star Proxima Centauri is four years old.
+<img align="right" alt="Animated computer illustration" src="./assets/iem-saad-gh-computer.gif" width="290" />
 
-<br>
+I'm a **Machine Learning Engineer at [Supersight Oy](https://supersight.fi/en/)** with **5+ years of software engineering experience** across backend development, data infrastructure, computer vision, and applied AI.
 
-### Let's Connect 🔥
-<a href="https://github.com/iem-saad/">
-<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.linkedin.com/in/iemsaad/">
-<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://x.facebook.com/iemsaaad">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
-<a href="https://twitter.com/iem_saad">
-<img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>  
-<a href="https://www.instagram.com/iem.saad/">
-<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
-<a href="mailto:iem.saad@hotmail.com">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<br><br>
+- 🔭 Building data platforms that process **millions of time-series records daily**, alongside computer vision model development and evaluation.
+- 🧠 Exploring **LLM agents, VLMs, and LoRA fine-tuning** through research and prototypes.
+- 🎓 Graduated from the **Erasmus Mundus EDISS master's programme**, specializing in Industrial Machine Learning.
+- 📖 Interested in **efficient on-device inference, explainable AI, and reliable ML systems**.
+- 🤝 Open to collaboration on research and open-source projects.
+- 📫 Reach me at **[iem.saad@hotmail.com](mailto:iem.saad@hotmail.com)**.
 
-### Tools & Technologies 🛠
+<br clear="right" />
 
-<div>
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-</div>
-<br><br>
+### Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iem-saad.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iemsaad/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iem-saad)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:iem.saad@hotmail.com)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors count
+### What I work with
 
-![VisitorCount](https://profile-counter.glitch.me/{iem-saad}/count.svg)
+**Machine Learning & AI**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Computer_Vision-6B46C1?style=flat-square)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-Agents-E92063?style=flat-square)
 
-### 📊 Profile Stats
-<div align="center">
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iem-saad&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-</div>
+**Data & Infrastructure**  
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=flat-square)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">I'm all about connecting with new folks! Don't hesitate to say Hi 👋 – I'm excited to get to know you better!</p>
-  
+**Software Engineering**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Selected projects & research
+
+| Project | What I worked on | Link |
+| --- | --- | --- |
+| **Heterogeneous YOLO Mobile Inference** | Master's thesis on sustained on-device object detection and CPU/GPU execution trade-offs; awarded **5/5**. | [Portfolio](https://iem-saad.github.io/#portfolio) |
+| **XRAI — Explainable AI for Medical Segmentation** | First-author research on texture-based learning patterns and explainability in medical image segmentation. | [Publication](https://www.sciencedirect.com/science/article/pii/S1746809426011146) |
+| **Self-Healing Code** | Collaborative VS Code extension for Python runtime-error detection and LLM-assisted fixes. | [Demo](https://lnkd.in/djpi2wsd) |
+| **KHWARIZMI** | Four-agent hackathon prototype translating natural-language requests into SQL, charts, and reports. | [Demo](https://drive.google.com/file/d/115j5jt2Ap34fEnMDd9fmzRI5LlRPpda_/view?usp=drive_link) |
+| **Xavier** | Bachelor's thesis: open-source mutation testing toolbox for deep neural networks; awarded **4/4**. | [Frontend repository](https://github.com/iem-saad/xavier-frontend) |
+
+For more projects, including production web applications, see my **[portfolio](https://iem-saad.github.io/#portfolio)**.
+
+<p align="center"><em>Always curious to learn, build, and collaborate.</em></p>
